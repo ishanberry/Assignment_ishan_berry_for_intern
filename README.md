@@ -25,7 +25,7 @@ The Markersharks Supplier API provides endpoints to search for manufacturers bas
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone (https://github.com/ishanberry/Assignment_ishan_berry_for_intern.git)
     cd your-repository
     ```
 
@@ -117,8 +117,8 @@ You can access the H2 database console for development and debugging purposes:
 
 - **URL**: `http://localhost:8080/h2-console`
 - **JDBC URL**: `jdbc:h2:mem:testdb`
-- **Username**: `sa`
-- **Password**: *(leave empty)*
+- **Username**: `your credntials` (root)
+- **Password**: your credentials (root)
 
 ## Contribution
 
